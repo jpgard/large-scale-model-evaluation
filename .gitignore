@@ -1,0 +1,8 @@
+data/
+*.tar
+*.pyc
+*.cpython-35.pyc
+__pycache__/
+config.properties
+analysis-utils/*csv
+
