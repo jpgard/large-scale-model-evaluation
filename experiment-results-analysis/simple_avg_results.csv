@@ -1,0 +1,97 @@
+model_id,simple_avg_ROC
+adaboost_100_Adaboost.M1_all,0.8979476663038056
+adaboost_100_Adaboost.M1_clickstream,0.892319914448061
+adaboost_100_Adaboost.M1_forum,0.5127538906031034
+adaboost_100_Adaboost.M1_quiz,0.585317617840693
+adaboost_100_Real adaboost_all,0.588703303352873
+adaboost_100_Real adaboost_clickstream,0.5964166273217363
+adaboost_100_Real adaboost_forum,0.5047860136354904
+adaboost_100_Real adaboost_quiz,0.5162021330732336
+adaboost_500_Adaboost.M1_all,0.8969214736546569
+adaboost_500_Adaboost.M1_clickstream,0.8907697809055594
+adaboost_500_Adaboost.M1_forum,0.5136659784673022
+adaboost_500_Adaboost.M1_quiz,0.5850309325166375
+adaboost_500_Real adaboost_all,0.5621454935963729
+adaboost_500_Real adaboost_clickstream,0.5510062414342892
+adaboost_500_Real adaboost_forum,0.5039970927653797
+adaboost_500_Real adaboost_quiz,0.5096377385126523
+adaboost_50_Adaboost.M1_all,0.8980510813746682
+adaboost_50_Adaboost.M1_clickstream,0.8928364619668102
+adaboost_50_Adaboost.M1_forum,0.5119744092138254
+adaboost_50_Adaboost.M1_quiz,0.5852791073206169
+adaboost_50_Real adaboost_all,0.6003125584343504
+adaboost_50_Real adaboost_clickstream,0.6094466845395003
+adaboost_50_Real adaboost_forum,0.5058687833023143
+adaboost_50_Real adaboost_quiz,0.5192781269407016
+glmnet_0_0.001_all,0.7791241439672645
+glmnet_0_0.001_clickstream,0.752004516689663
+glmnet_0_0.001_forum,0.5106945428268007
+glmnet_0_0.001_quiz,0.6049135220831685
+glmnet_0_0.01_all,0.7798906623265985
+glmnet_0_0.01_clickstream,0.7514443310282487
+glmnet_0_0.01_forum,0.5109586189124725
+glmnet_0_0.01_quiz,0.6048197922786481
+glmnet_0_0.1_all,0.779094573558172
+glmnet_0_0.1_clickstream,0.7387392554438331
+glmnet_0_0.1_forum,0.5121682721820271
+glmnet_0_0.1_quiz,0.6044350621803879
+glmnet_0_0_all,0.7791241439672645
+glmnet_0_0_clickstream,0.752004516689663
+glmnet_0_0_forum,0.5106741221380394
+glmnet_0_0_quiz,0.6049135220831685
+glmnet_0_1_all,0.7515964264230418
+glmnet_0_1_clickstream,0.699895233237578
+glmnet_0_1_forum,0.5140658022278992
+glmnet_0_1_quiz,0.5963344256009143
+nb_0_FALSE_1_all,0.5006901248765268
+nb_0_FALSE_1_clickstream,0.7911479358288358
+nb_0_FALSE_1_forum,0.4993856526522119
+nb_0_FALSE_1_quiz,0.5872877425864413
+nb_0_TRUE_1_all,0.7248822193866233
+nb_0_TRUE_1_clickstream,0.8726553532579092
+nb_0_TRUE_1_forum,0.5110599646802947
+nb_0_TRUE_1_quiz,0.5850539283058949
+nb_1_FALSE_1_all,0.5006901248765268
+nb_1_FALSE_1_clickstream,0.7911479358288358
+nb_1_FALSE_1_forum,0.4993856526522119
+nb_1_FALSE_1_quiz,0.5872877425864413
+nb_1_TRUE_1_all,0.7248822193866233
+nb_1_TRUE_1_clickstream,0.8726553532579092
+nb_1_TRUE_1_forum,0.5110599646802947
+nb_1_TRUE_1_quiz,0.5850539283058949
+rpart_0.001_all,0.9009654647115394
+rpart_0.001_clickstream,0.8922371326466795
+rpart_0.001_forum,0.5011355812348508
+rpart_0.001_quiz,0.5552184995098981
+rpart_0.01_all,0.893551620308789
+rpart_0.01_clickstream,0.8799309733293373
+rpart_0.01_forum,0.5000632628233962
+rpart_0.01_quiz,0.510201765247467
+rpart_0.1_all,0.6195934391918638
+rpart_0.1_clickstream,0.5878784146760315
+rpart_0.1_forum,0.5
+rpart_0.1_quiz,0.5
+rpart_1_all,0.5
+rpart_1_clickstream,0.5
+rpart_1_forum,0.5
+rpart_1_quiz,0.5
+svmLinear2_0.001_all,0.546495224991373
+svmLinear2_0.001_clickstream,0.6021389897111565
+svmLinear2_0.001_forum,0.5041785722456928
+svmLinear2_0.001_quiz,0.5427169708248119
+svmLinear2_0.01_all,0.570253348409072
+svmLinear2_0.01_clickstream,0.6121187560844759
+svmLinear2_0.01_forum,0.5049970277394058
+svmLinear2_0.01_quiz,0.546403391210073
+svmLinear2_0.1_all,0.592311273752615
+svmLinear2_0.1_clickstream,0.6114780168657302
+svmLinear2_0.1_forum,0.5052272193761064
+svmLinear2_0.1_quiz,0.5453359042284005
+svmLinear2_10_all,0.6500000089423893
+svmLinear2_10_clickstream,0.6316517510521114
+svmLinear2_10_forum,0.5060199933527253
+svmLinear2_10_quiz,0.53965688767981
+svmLinear2_1_all,0.6276613220665842
+svmLinear2_1_clickstream,0.6190005320105596
+svmLinear2_1_forum,0.5062742411675114
+svmLinear2_1_quiz,0.5441279195696476
